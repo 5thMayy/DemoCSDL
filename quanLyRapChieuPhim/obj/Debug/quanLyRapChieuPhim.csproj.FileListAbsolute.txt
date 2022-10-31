@@ -1,0 +1,17 @@
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\bin\Debug\quanLyRapChieuPhim.exe.config
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\bin\Debug\quanLyRapChieuPhim.exe
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\bin\Debug\quanLyRapChieuPhim.pdb
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.csproj.AssemblyReference.cache
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.csproj.SuggestedBindingRedirects.cache
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.frmQuanLyRapChieuPhim.resources
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.Properties.Resources.resources
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.csproj.GenerateResource.cache
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.csproj.CoreCompileInputs.cache
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.exe
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.pdb
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.view.resources
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.Procedure.resources
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\bin\Debug\Login.mdf
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\bin\Debug\Login_log.ldf
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.LoginQLRapChieuPhim.resources
+E:\Ki1Nam3\SQL\BaiTapLonSQL\quanLyRapChieuPhim\quanLyRapChieuPhim\obj\Debug\quanLyRapChieuPhim.Function.resources
